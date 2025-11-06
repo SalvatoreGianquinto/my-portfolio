@@ -5,7 +5,7 @@ const Projects = () => {
         title: "Climys",
         description:
           "App meteo con API esterne e responsive design, sviluppata con React e Tailwind CSS.",
-        image: "/public/climys.jpeg",
+        image: "climys.jpeg",
         github: "https://github.com/SalvatoreGianquinto/climys",
         live: "https://climys.vercel.app/",
       },
@@ -15,7 +15,7 @@ const Projects = () => {
         title: "Ricette Swap",
         description:
           "Piattaforma full-stack sviluppata con React e PocketBase: inserisci un ingrediente e trova tutte le ricette che lo contengono (al momento solo ricette americane).",
-        image: "/public/ricette-swap.jpeg",
+        image: "ricette-swap.jpeg",
         github: "https://github.com/SalvatoreGianquinto/ricette-swap1",
         live: "https://ricette-swap1.vercel.app/",
         maintenance: true,
