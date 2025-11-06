@@ -2,7 +2,7 @@ import Avatar from "../src/assets/avatar.png"
 
 const Hero = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 h-[50vh]">
+    <div className="grid grid-cols-1 md:grid-cols-2 min-h-[60vh] md:h-[50vh]">
       <div className="bg-gray-800 flex flex-col items-center justify-center p-4 space-y-4">
         <p className="text-white text-5xl font-bold">Salvatore Gianquinto</p>
         <p className="text-white text-xl">
