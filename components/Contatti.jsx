@@ -22,7 +22,7 @@ const Contatti = () => {
           </div>
 
           <a
-            href="https://www.linkedin.com/in/tuo-profilo"
+            href="https://www.linkedin.com/in/salvatore-gianquinto/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-blue-600 font-semibold px-6 py-3 rounded shadow hover:bg-gray-200 transition"
