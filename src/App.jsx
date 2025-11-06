@@ -1,7 +1,12 @@
+import Hero from "../components/Hero"
 import "./App.css"
 
 function App() {
-  return <></>
+  return (
+    <>
+      <Hero />
+    </>
+  )
 }
 
 export default App
